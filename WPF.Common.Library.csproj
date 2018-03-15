@@ -48,6 +48,7 @@
     <Compile Include="Data\ExcelFetcher.cs" />
     <Compile Include="Model\ExcelSheet.cs" />
     <Compile Include="Data\PropertyObserver.cs" />
+    <Compile Include="Model\RadioBtnConverter.cs" />
     <Compile Include="Model\Uri2StringConverter.cs" />
     <Compile Include="Process\Repeat.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
